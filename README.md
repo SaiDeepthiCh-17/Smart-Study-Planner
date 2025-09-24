@@ -30,7 +30,7 @@ Students often face challenges in organizing study schedules and tracking academ
 
 ## 🚀 Demo
 
-[Live Demo](https://your-username.github.io/smart-study-planner) *(Replace with your actual GitHub Pages URL)*
+[Live Demo]( https://saideepthich-17.github.io/Smart-Study-Planner/) 
 
 ## 📸 Screenshots
 
