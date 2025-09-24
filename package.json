@@ -1,0 +1,13 @@
+{
+  "name": "smart-study-planner",
+  "version": "1.0.0",
+  "description": "A smart study planner for students",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 3000 -o",
+    "dev": "npx http-server . -p 3000 -o"
+  },
+  "keywords": ["study", "planner", "productivity"],
+  "author": "",
+  "license": "MIT"
+}
